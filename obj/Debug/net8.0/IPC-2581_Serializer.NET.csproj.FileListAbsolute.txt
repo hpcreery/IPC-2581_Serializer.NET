@@ -1,0 +1,14 @@
+/Users/Professional/Developer/Dotnet/IPC-2581_Serializer.NET/bin/Debug/net8.0/IPC-2581_Serializer.NET
+/Users/Professional/Developer/Dotnet/IPC-2581_Serializer.NET/bin/Debug/net8.0/IPC-2581_Serializer.NET.deps.json
+/Users/Professional/Developer/Dotnet/IPC-2581_Serializer.NET/bin/Debug/net8.0/IPC-2581_Serializer.NET.runtimeconfig.json
+/Users/Professional/Developer/Dotnet/IPC-2581_Serializer.NET/bin/Debug/net8.0/IPC-2581_Serializer.NET.dll
+/Users/Professional/Developer/Dotnet/IPC-2581_Serializer.NET/bin/Debug/net8.0/IPC-2581_Serializer.NET.pdb
+/Users/Professional/Developer/Dotnet/IPC-2581_Serializer.NET/obj/Debug/net8.0/IPC-2581_Serializer.NET.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Professional/Developer/Dotnet/IPC-2581_Serializer.NET/obj/Debug/net8.0/IPC-2581_Serializer.NET.AssemblyInfoInputs.cache
+/Users/Professional/Developer/Dotnet/IPC-2581_Serializer.NET/obj/Debug/net8.0/IPC-2581_Serializer.NET.AssemblyInfo.cs
+/Users/Professional/Developer/Dotnet/IPC-2581_Serializer.NET/obj/Debug/net8.0/IPC-2581_Serializer.NET.csproj.CoreCompileInputs.cache
+/Users/Professional/Developer/Dotnet/IPC-2581_Serializer.NET/obj/Debug/net8.0/IPC-2581_Serializer.NET.dll
+/Users/Professional/Developer/Dotnet/IPC-2581_Serializer.NET/obj/Debug/net8.0/refint/IPC-2581_Serializer.NET.dll
+/Users/Professional/Developer/Dotnet/IPC-2581_Serializer.NET/obj/Debug/net8.0/IPC-2581_Serializer.NET.pdb
+/Users/Professional/Developer/Dotnet/IPC-2581_Serializer.NET/obj/Debug/net8.0/IPC-2581_Serializer.NET.genruntimeconfig.cache
+/Users/Professional/Developer/Dotnet/IPC-2581_Serializer.NET/obj/Debug/net8.0/ref/IPC-2581_Serializer.NET.dll
