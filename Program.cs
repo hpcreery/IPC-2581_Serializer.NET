@@ -27,7 +27,7 @@ public class Functions
 
         string AskForPath()
         {
-            Console.Write("Enter path to XSD schema file: ");
+            Console.Write("Enter path to IPC-2581 XML file: ");
             var xsdPath = Console.ReadLine();
             if (string.IsNullOrEmpty(xsdPath) || !File.Exists(xsdPath))
             {
